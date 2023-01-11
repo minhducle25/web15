@@ -1,0 +1,15 @@
+#div1 {
+    height: 758px;
+    width: 50%;
+    float: left;
+    background-color: pink;
+    text-align: center;
+    color: black
+ }
+ #div2 {
+     height: 758px;
+     width: 50%;
+     overflow: hidden;
+     background-color: #99CCFF;
+     text-align: center;
+ }
