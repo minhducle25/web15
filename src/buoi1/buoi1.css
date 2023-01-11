@@ -1,5 +1,15 @@
-header {
-    background-color: #FFCC33;
-    text-align: center;
-    height: 30px;
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar .navbar-brand{
+    color: coral;
+}
+.navbar .navbar-brand .span {
+    color: black;
+}
+.navbar .navbar-brand span:hover {
+    color: coral;
+    transition: all 0.75s;
 }
