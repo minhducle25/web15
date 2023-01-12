@@ -70,7 +70,11 @@ export default class Buoi1 extends Component {
     return (
       <div className="demo">
         {renderHtml()}
-        <Link to="/buoi2"> chuyển hướng trang</Link>
+        <Link to="/buoi2"> chuyển hướng trang 2</Link>
+        <br/>
+        <Link to="/buoi3"> chuyển hướng trang 3</Link>
+        <br/>
+        <Link to="/buoi31"> chuyển hướng trang Index</Link>
       </div>
     );
   }
